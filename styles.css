@@ -1,0 +1,93 @@
+/* Main Page */
+.recipe-list {
+    color: #3d85c6;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+.body-h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    color: #4d85c6;
+}
+body {
+    background-color: #fffcf1;
+}
+/* Lasagna Page */
+.las-desc,
+.las-steps,
+.las-ing {
+    color: #9f1c13;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.las-rec {
+    color: #9f1c13;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.container, .taco-img {
+    text-align: center;
+}
+img {
+    display: inline-block;
+}
+#lasd-p {
+    text-align: center;
+}
+#lasd-p, #ing-li,
+#la-stli {
+    color: #f44336;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+}
+
+
+/* Taco Page */
+.taco-ti, .tac-ing,
+.dir-tac {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #b5630e;
+    text-align: center;
+    font-weight: lighter;
+}
+.tac-p {
+    text-align: center;
+    color: #fb8f1e;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.tac-sauce, .tac-meat,
+.tac-taco {
+    color: #b5630e;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.ing-li, .meat-li,
+.taco-li {
+    color: #cd8027;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+}
+/* Chicken Dip Page */
+.dip-h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #85365d;
+    text-align: center;
+}
+.dip-container, .dip-img {
+    text-align: center;
+}
+.dip-lidi, .ding-li {
+    color: #a64d79;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+}
+.dip-p {
+    text-align: center;
+    color: #c65b91;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.dip-ing, .dip-dir {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color:#85365d;
+    font-weight: lighter;
+}
